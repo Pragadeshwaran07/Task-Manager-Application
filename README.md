@@ -16,12 +16,7 @@
 ## ⚙️ Setup & Run
 1. **Prerequisites**  
    Java 17+ ([Download JDK](https://adoptium.net/))
-   
-2. **Clone & Compile**  
-   ```bash
-   git clone https://github.com/yourusername/JavaTaskManager.git
-   cd JavaTaskManager/src
-   javac com/jap/task/*.java
+
 
    🛠️ Built With
 Java 17
